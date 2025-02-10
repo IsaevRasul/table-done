@@ -1,0 +1,22 @@
+th {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border: 1px;
+  border-color: #dfdfe2;
+  border-style: solid;
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0.2px;
+  text-align: left;
+  text-transform: uppercase;
+  background-color: #dfdfe2;
+}
+
+td {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
